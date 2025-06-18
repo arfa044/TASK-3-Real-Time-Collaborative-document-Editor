@@ -22,3 +22,9 @@ To run the project, we use two terminal windows or tabs. In one terminal, we run
 When testing the application, we can open http://localhost:3000 in two or more browser windows or tabs. As soon as a user types into the text area in one window, the same content appears in real time in the other windows, demonstrating the collaborative functionality. This task helps in understanding how real-time web applications work, how web sockets enable instant data transfer, and how to integrate React with a Node.js backend using Socket.io.
 
 Overall, this project provides a simple and practical example of implementing real-time communication in web development. It covers essential concepts such as managing client-server communication, using state in React, handling events with Socket.io, and building a full-stack application using modern web technologies.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/fdcc4697-2039-422e-8eb3-2355bc749bb1)
+
+![Image](https://github.com/user-attachments/assets/2a109f88-02e7-4cf2-95bb-9be68af486bf)
