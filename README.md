@@ -25,6 +25,4 @@ Overall, this project provides a simple and practical example of implementing re
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/fdcc4697-2039-422e-8eb3-2355bc749bb1)
 
-![Image](https://github.com/user-attachments/assets/2a109f88-02e7-4cf2-95bb-9be68af486bf)
